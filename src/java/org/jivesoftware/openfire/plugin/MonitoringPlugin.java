@@ -24,7 +24,7 @@ import java.nio.file.Path;
 import com.reucon.openfire.plugin.archive.impl.*;
 import com.reucon.openfire.plugin.archive.xep0313.Xep0313Support1;
 import com.reucon.openfire.plugin.archive.xep0313.Xep0313Support2;
-import org.eclipse.jetty.ee8.webapp.WebAppContext;
+import org.eclipse.jetty.ee9.webapp.WebAppContext;
 import org.jivesoftware.openfire.XMPPServer;
 import org.jivesoftware.openfire.archive.ArchiveIndexer;
 import org.jivesoftware.openfire.archive.ArchiveInterceptor;

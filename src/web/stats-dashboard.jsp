@@ -11,7 +11,7 @@
 <%@ page import="org.jivesoftware.util.LocaleUtils"%>
 <%@ page import="org.jivesoftware.util.StringUtils"%>
 <%@ page import="org.xmpp.packet.JID"%>
-<%@ page import="javax.servlet.http.Cookie"%>
+<%@ page import="jakarta.servlet.http.Cookie"%>
 <%@ page import="java.net.URLEncoder"%>
 <%@ page import="java.util.*"%>
 <%@ page import="org.jivesoftware.openfire.XMPPServer" %>

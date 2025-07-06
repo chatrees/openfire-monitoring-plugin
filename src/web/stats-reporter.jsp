@@ -4,7 +4,7 @@
 <%@ page import="org.jivesoftware.util.JiveGlobals"%>
 <%@ page import="org.jivesoftware.util.ParamUtils"%>
 <%@ page import="org.jivesoftware.openfire.stats.Statistic"%>
-<%@ page import="javax.servlet.http.Cookie"%>
+<%@ page import="jakarta.servlet.http.Cookie"%>
 <%@ page import="java.util.Arrays"%>
 <%@ page import="java.util.Collections"%>
 <%@ page import="java.util.Comparator"%>

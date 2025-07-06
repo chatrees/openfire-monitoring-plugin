@@ -4,11 +4,11 @@
     <parent>
         <artifactId>plugins</artifactId>
         <groupId>org.igniterealtime.openfire</groupId>
-        <version>5.0.0-beta</version>
+        <version>5.0.1-jakarta-04072025</version>
     </parent>
     <groupId>org.igniterealtime.openfire.plugins</groupId>
     <artifactId>monitoring</artifactId>
-    <version>2.7.0</version>
+    <version>2.7.0-jakarta-06072025</version>
     <name>Monitoring Plugin</name>
     <description>Monitors conversations and statistics of the server.</description>
 
